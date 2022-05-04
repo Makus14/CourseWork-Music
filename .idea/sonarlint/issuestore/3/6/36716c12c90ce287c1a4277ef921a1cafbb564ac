@@ -1,0 +1,27 @@
+
+r
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘«„Œıÿÿÿÿ8ºø¼Éû.
+
+java:S1192E"rDefine a constant instead of duplicating this literal "JOIN track ON playlist_track.track_id = track.id " 3 times.(îö«‘8ºø¼Éû.
+
+java:S1192""lDefine a constant instead of duplicating this literal "JOIN artist on album.artist_id = artist.id " 4 times.(‹ë¡Èûÿÿÿÿ8ºø¼Éû.
+m
+java:S2095’"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–­“ê8ºø¼Éû.
+‡
+java:S1192"jDefine a constant instead of duplicating this literal "JOIN album ON track.album_id = album.id " 10 times.(¹•¯é8ºø¼Éû.
+w
+java:S1192C"UDefine a constant instead of duplicating this literal "FROM playlist_track " 3 times.(€æ’ûÿÿÿÿ8ºø¼Éû.
+X
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ºø¼Éû.
+‹
+java:S1192"nDefine a constant instead of duplicating this literal "JOIN genre ON track.genre_name = genre.name " 10 times.(ÃŸüæ8ºø¼Éû.
+r
+java:S2095•"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸º­üÿÿÿÿ8ºø¼Éû.
+ç
+java:S1192"ÉDefine a constant instead of duplicating this literal "SELECT  track.id, track.name, track.audio_path, genre.name, album.id, album.name, album.year, artist.id, artist.name, artist.image_path " 3 times.(ƒ‘Ì8¸öä‚†/
+n
+java:S1192"LDefine a constant instead of duplicating this literal "FROM track " 6 times.(Öúİ¯øÿÿÿÿ8ºø¼Éû.
+
+java:S1192"lDefine a constant instead of duplicating this literal "JOIN artist ON album.artist_id = artist.id " 5 times.(ªÛ¥øÿÿÿÿ8ºø¼Éû.
+æ
+java:S1192"ÈDefine a constant instead of duplicating this literal "SELECT track.id, track.name, track.audio_path, genre.name, album.id, album.name, album.year, artist.id, artist.name, artist.image_path " 3 times.(ƒ‘Ì8š®å‚†/

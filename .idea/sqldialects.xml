@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/create_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/insert_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/test/create_test_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/test/fill_test_tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/AccountDaoImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/AlbumDaoImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/ArtistDaoImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/CommentDaoImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/PlaylistDaoImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/TrackDaoImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/nyurush/music/dao/impl/UserDaoImpl.java" dialect="MySQL" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+
+l
+java:S2095j"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿”Ú‰8Ù„ßÓû.
+¸
+java:S1192"šDefine a constant instead of duplicating this literal "SELECT account_id, first_name, last_name, email, subscription, id, login, password, role " 5 times.(®¦òå8Ù„ßÓû.
+l
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ÿ¯™8Ù„ßÓû.
+l
+java:S2095q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º’Éï8Ù„ßÓû.
+W
+java:S1141S"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ù„ßÓû.
+m
+java:S1192"KDefine a constant instead of duplicating this literal "FROM user " 5 times.(Õ´À²ÿÿÿÿÿ8Ù„ßÓû.
+l
+java:S2095U"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–­“ê8Ù„ßÓû.
+ƒ
+java:S1192"aDefine a constant instead of duplicating this literal "JOIN account ON account_id = id " 5 times.(àÛØıÿÿÿÿ8Ù„ßÓû.

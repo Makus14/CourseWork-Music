@@ -1,0 +1,11 @@
+
+G
+java:S3457Q"%String contains no format specifiers.(¼Â¥øÿÿÿÿ8–±œ½ú.
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(šÚÿùÿÿÿÿ8»âôÖò.
+F
+java:S2629Q"$Invoke method(s) only conditionally.(¼Â¥øÿÿÿÿ8–±œ½ú.
+[	java:S899F":Do something with the "boolean" value returned by "offer".(ª¿†Ãÿÿÿÿÿ8–±œ½ú.
+\	java:S899O";Do something with the "boolean" value returned by "remove".(ú¯ˆ«ûÿÿÿÿ8–±œ½ú.
+V	java:S8996":Do something with the "boolean" value returned by "offer".(Á‘8ñç¼ú.
+c
+java:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8–±œ½ú.

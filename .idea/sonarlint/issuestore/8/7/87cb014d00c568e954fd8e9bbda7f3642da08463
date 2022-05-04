@@ -1,0 +1,17 @@
+
+È
+java:S1192"¥Define a constant instead of duplicating this literal "SELECT playlist.id, playlist.name, playlist.visible, account_id, account.id, login, password, role  " 4 times.(æùŠÜşÿÿÿÿ8…õ¬Úñ.
+S
+java:S1141‹"5Extract this nested try block into a separate method.(ŞËóÈ8Î² ôé.
+q
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸º­üÿÿÿÿ8¸ÿ™ãé.
+k
+java:S1192"ODefine a constant instead of duplicating this literal "FROM playlist " 5 times.(áÓæh8¢úˆôé.
+l
+java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–­“ê8¸ÿ™ãé.
+”
+java:S1192"rDefine a constant instead of duplicating this literal "JOIN account ON playlist.account_id = account.id " 4 times.(İÈÅŸûÿÿÿÿ8®Ò¬Úñ.
+W
+java:S1141R"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8È›®ôé.
+X
+java:S1141œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÉÇØğ÷.

@@ -1,0 +1,9 @@
+
+l
+java:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–­“ê8íÿœÖú.
+¸
+java:S1192"•Define a constant instead of duplicating this literal "SELECT album.id, album.name, album.year, artist.id, artist.name, artist.image_path  " 5 times.(ˆÃü„ıÿÿÿÿ8Éôû†/
+q
+java:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸º­üÿÿÿÿ8íÿœÖú.
+W
+java:S1141L"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ñâé.
